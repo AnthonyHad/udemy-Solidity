@@ -1,0 +1,6 @@
+We can use truffle console and get access to a smart contract instance ex: const instance = await Faucet.deployed()
+
+
+Web3JS is a collection of libs that allow us to interact witha local
+or remote ethereum node
+
